@@ -8,4 +8,4 @@
 
 ### Raycast Extensions
 
-<a title="Install ns-nl-search Raycast Extension" href="https://www.raycast.com/flaticols/ns-nl-search"><img src="https://www.raycast.com/flaticols/ns-nl-search/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
+- [Netherlands Railways Train Search](https://www.raycast.com/flaticols/ns-nl-search)
