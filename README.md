@@ -9,6 +9,7 @@ Go developer based in the Netherlands. I build tools and libraries, mostly in Go
 #### Projects
 
 - **[capnweb-go](https://github.com/flaticols/capnweb-go)** — Go implementation of Cloudflare's Cap'n Web RPC protocol
+- **[semtag](https://github.com/flaticols/semtag)** ([semtag.dev](https://semtag.dev)) — Semantic versioning tag manager (bump successor)
 - **[gobreaker](https://github.com/flaticols/gobreaker)** — Detect breaking changes in Go code
 - **[mkrfc](https://github.com/flaticols/mkrfc)** — RFC management CLI for engineering teams
 - **[gi-play](https://giplay.flaticols.dev)** ([repo](https://github.com/flaticols/gi-play)) — Web playground for [gi](https://github.com/emicklei/gi), a Go interpreter by [Ernest Micklei](https://github.com/emicklei)
