@@ -1,11 +1,18 @@
 ### Hi, I'm Denis! 👋
 
-- **[Bump](https://github.com/flaticols/bump)** - Manage semver git tags
-- **[objswm](https://github.com/flaticols/objswm)** - Object poll for Go
-- **[ebo](https://github.com/flaticols/ebo)** - Backoff/Retry library
-- **[tagger](https://github.com/flaticols/tagger)** - Creating a new release using the labels from the Pull Requests
+Go developer based in the Netherlands. I build tools and libraries, mostly in Go.
 
+**[Blog](https://flaticols.dev)**
 
-### Raycast Extensions
+---
+
+#### Projects
+
+- **[capnweb-go](https://github.com/flaticols/capnweb-go)** — Go implementation of Cloudflare's Cap'n Web RPC protocol
+- **[gobreaker](https://github.com/flaticols/gobreaker)** — Detect breaking changes in Go code
+- **[mkrfc](https://github.com/flaticols/mkrfc)** — RFC management CLI for engineering teams
+- **[go.vuln.flaticols.dev](https://go.vuln.flaticols.dev)** — Go vulnerability database
+
+#### Raycast Extensions
 
 - [Netherlands Railways Train Search](https://www.raycast.com/flaticols/ns-nl-search)
