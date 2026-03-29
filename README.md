@@ -2,7 +2,7 @@
 
 Go developer based in the Netherlands. I build tools and libraries, mostly in Go.
 
-**[Blog](https://flaticols.dev)**
+**[Blog](https://flaticols.dev)** · **[Bluesky](https://bsky.app/profile/flaticols.dev)**
 
 ---
 
