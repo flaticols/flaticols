@@ -11,7 +11,7 @@ Go developer based in the Netherlands. I build tools and libraries, mostly in Go
 - **[capnweb-go](https://github.com/flaticols/capnweb-go)** — Go implementation of Cloudflare's Cap'n Web RPC protocol
 - **[gobreaker](https://github.com/flaticols/gobreaker)** — Detect breaking changes in Go code
 - **[mkrfc](https://github.com/flaticols/mkrfc)** — RFC management CLI for engineering teams
-- **[go.vuln.flaticols.dev](https://go.vuln.flaticols.dev)** — Go vulnerability database
+- **[go.vuln.flaticols.dev](https://go.vuln.flaticols.dev)** — RSS/email subscription for Go vulnerabilities
 
 #### Raycast Extensions
 
